@@ -1,0 +1,308 @@
+#CE MAJOR
+
+
+
+
+
+AMS;10;Mathematical Methods for Engineers I;5;(1,['MATH3'],[]);(0,[],[]);(0,[],[])
+
+
+
+
+AMS;20;Mathematical Methods for Engineers II;5;(2,['MATH19B'],[(1,['AMS10','AMS10A','MATH21'],[])]);(0,[],[]);(0,[],[])
+
+
+CMPE;12;Computer Systems and Assembly Language;5;(0,[],[]);(1,['CMPE12L'],[]);(0,[],[])
+
+
+CMPE;12L;Computer Systems and Assembly Language Laboratory;2;(0,[],[]);(1,['CMPE12'],[]);(0,[],[])
+
+
+CMPE;13;Computer Systems and C Programming;5;(2,['CMPE12','CMPE12L'],[]);(1,['CMPE13L'],[]);(0,[],[])
+
+
+CMPE;13L;Computer Systems and C Programming Laboratory;2;(0,[],[]);(1,['CMPE13'],[]);(0,[],[])
+
+
+CMPE;16;Applied Discrete Mathematics;5;(1,['MATH19A','MATH11B','AMS11B','AMS15B','ECON11B'],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;80E;Engineering Ethics;5;(0,[],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;100;Logic Design;5;(2,['CMPE12','CMPE12L'],[]);(1,['CMPE100L'],[]);(0,[],[])
+
+
+CMPE;100L;Logic Design Laboratory;2;(0,[],[]);(1,['CMPE100'],[]);(0,[],[])
+
+
+CMPE;107;Probability and Statistics for Engineers (formerly Math Systems, Stochastic);5;(2,['CMPE16','MATH23A'],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;118;Introduction to Mechatronics;5;(4,['CMPE100','CMPE100L','EE101','EE101L'],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;118L;Introduction to Mechatronics Laboratory;5;(0,[],[]);(1,['CMPE118'],[]);(0,[],[])
+
+
+CMPE;121;Microprocessor System Design;5;(8,['CMPE12','CMPE12L','CMPE100','CMPE100L','EE101','EE101L','CMPE13','CMPE13L'],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;121L;Microprocessor System Design Laboratory;2;(0,[],[]);(0,['CMPE121'],[]);(0,[],[])
+
+
+CMPE;150;Introduction to Computer Networks;5;(0,['CMPE16','CMPE12','CMPE12L'],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;150L;Introduction to Computer Networks Laboratory;2;(0,[],[]);(1,['CMPE150'],[]);(0,[],[])
+
+
+CMPE;167;Sensing and Sensor Technologies;5;(1,['EE103'],[]);(1,['CMPE167L'],[]);(0,[],[])
+
+
+CMPE;167L;Sensing and Sensor Technologies Lab;2;(0,[],[]);(1,['CMPE167'],[]);(0,[],[])
+
+
+CMPE;185;Technical Writing for Computer Engineers;5;(1,['CMPE12'],[]);(0,[],[]);(0,[],[])
+
+
+CMPE;251;Error-Control Coding;5;(0,[],[]);(0,[],[]);(0,[],[])
+
+
+EE;80T;Modern Electronic Technology and How It Works;5;(0,[],[]);(0,[],[]);(0,[],[])
+
+
+EE;101;Introduction to Electronic Circuits;5;(1,[],[(2,['PHYS5C','PHYS5N'],[]),(2,['PHYS6C','PHYS6N'],[])]);(0,[],[]);(1,['AMS20','AMS20A'],[]);
+
+
+EE;101L;Introduction to Electronic Circuits Laboratory;2;(0,[],[]);(1,['EE101'],[]);(0,[],[])
+
+
+EE;103;Signals and Systems;5;(3,['EE101','EE101L','AMS20'],[]);(0,[],[]);(0,[],[])
+
+
+EE;103L;Signals and Systems Lab;5;(0,[],[]);(1,['EE103'],[]);(0,[],[])
+
+
+EE;104;Bio-electronics and Bio-instrumentations;5;(1,['EE103'],[]);(0,[],[]);(0,[],[])
+
+
+EE;115;Introduction to Micro-Electro-Mechanical-Systems Design;5;(8,['EE101','EE101L','EE135','EE135L','EE145','EE145L','MATH23B','PHYS5D'],[]);(0,[],[]);(0,[],[])
+
+
+EE;129A;Capstone Project I;5;(3,['EE171','CMPE100','CMPE185'],[]);(0,[],[]);(1,['CMPE156','CMPE118','CMPE121'],[])
+
+
+EE;129B;Capstone Project II;5;(1,['EE129A'],[]);(0,[],[]);(0,[],[])
+
+
+EE;129C;Capstone Project III;5;(1,['EE129B'],[]);(0,[],[]);(0,[],[])
+
+
+EE;130;Introduction to Optoelectronics and Photonics;5;(2,['PHYS5B','PHYS5C'],[]);(1,['EE130L'],[]);(0,[],[])
+
+
+EE;130L;Introduction to Optoelectronics Laboratory;2;(0,[],[]);(1,['EE130'],[]);(0,[],[])
+
+
+EE;135;Electromagnetic Fields and Waves;5;(1,['EE101','EE101L','MATH23B'],[]);(1,['EE135L'],[]);(0,[],[])
+
+
+EE;135L;Electromagnetic Fields and Waves Laboratory;2;(0,[],[]);(1,['EE135'],[]);(0,[],[])
+
+
+EE;136;Engineering Electromagnetics;5;(2,['EE135','EE135L'],[]);(0,[],[]);(0,[],[])
+
+
+EE;145;Properties of Materials;5;(2,['PHYS5C','PHYS5N'],[]);(1,['EE145L'],[]);(0,[],[])
+
+
+EE;145L;Properties of Materials Laboratory;2;(0,[],[]);(1,['EE145'],[]);(0,[],[])
+
+
+EE;151;Communications Systems;5;(4,['EE103','EE101','EE101L','CMPE107'],[]);(0,[],[]);(0,[],[])
+
+
+EE;152;Introduction to Wireless Communications;5;(2,['CMPE107','EE151'],[]);(0,[],[]);(0,[],[])
+
+
+EE;153;Digital Signal Processing;5;(1,['EE103'],[]);(0,[],[]);(0,[],[])
+
+
+EE;154;Feedback Control Systems;5;(1,['EE103'],[]);(0,[],[]);(0,[],[])
+
+
+EE;157;RF Hardware Design;5;(5,['EE101','EE101L','EE103','EE171','CMPE174'],[]);(1,['EE157L'],[]);(0,[],[])
+
+
+EE;157L;RF Hardware Design;2;(0,[],[]);(1,['EE157'],[]);(0,[],[])
+
+
+EE;171;Analog Electronics;5;(2,['EE101','EE101L'],[]);(0,[],[]);(1,['EE171L'],[])
+
+
+EE;171L;Analog Electronics Laboratory;2;(2,['EE101','EE101L'],[]);(0,[],[]);(1,['EE171'],[])
+
+
+EE;172;Advanced Analog Circuits;5;(1,['EE171'],[]);(0,[],[]);(0,[],[])
+
+
+EE;173;High-Speed Digital Design;5;(3,['EE101','EE101L','EE174'],[]);(0,[],[]);(1,['EE173L'],[])
+
+
+EE;173L;High-Speed Digital Design Laboratory;2;(3,['EE101','EE101L','EE174'],[]);(0,[],[]);(1,['EE173L'],[])
+
+
+EE;175;Energy Generation and Control;5;(1,['EE101'],[]);(1,['EE175L'],[]);(0,[],[])
+
+
+EE;175L;Energy Generation and Control Laboratory;2;(0,[],[]);(1,['EE175'],[]);(0,[],[])
+
+
+EE;176;Energy Conversion and Control;5;(2,['EE103','EE171'],[]);(1,['EE176L'],[]);(0,[],[])
+
+
+EE;176L;Energy Conversion and Control Laboratory;2;(0,[],[]);(1,['EE176'],[]);(0,[],[])
+
+
+EE;177;Power Electronics;5;(1,['EE103'],[]);(1,['EE177L'],[]);(0,[],[])
+
+
+EE;177L;Power Electronics Laboratory;2;(0,[],[]);(1,['EE177'],[]);(0,[],[])
+
+
+EE;178;Device Electronics;5;(4,['EE145','EE145L','EE171','EE171L'],[]);(0,[],[]);(0,[],[])
+
+
+EE;180J;Advanced Renewable Energy Sources;5;(0,[],[]);(0,[],[]);(0,[],[])
+
+
+EE;211;Introduction to Nanotechnology;5;(1,['EE145'],[]);(0,[],[]);(0,[],[])
+
+
+EE;213;Nanocharacterization of Materials;5;(0,[],[]);(0,[],[]);(0,[],[])
+
+
+EE;231;Optical Electronics;5;(2,['EE145','EE145L'],[]);(0,[],[]);(0,[],[])
+
+
+EE;251;Principles of Digital Communications;5;(2,['EE151','EE153'],[]);(0,[],[]);(0,[],[])
+
+
+EE;253;Introduction to Information Theory;5;(1,['CMPE107','AMS131'],[]);(0,[],[]);(0,[],[])
+
+
+EE;261;Error Control Coding;5;(0,[],[]);(0,[],[]);(0,[],[])
+
+
+EE;262;Statistical Signal Processing;5;(2,['EE103','CMPE107'],[]);(0,[],[]);(0,[],[])
+
+
+EE;264;Image Processing and Reconstruction;5;(1,['EE153'],[]);(0,[],[]);(0,[],[])
+
+
+#
+
+
+PHYS;5A;Introduction To Physics I;5;(0,[],[]);(1,['PHYS5L'],[]);(1,['MATH19A','MATH20A'],[])
+
+
+PHYS;5B;Introduction To Physics II;5;(1,['PHYS5A'],[]);(1,['PHYS5M'],[]);(1,['MATH19B','MATH20B'],[])
+
+
+PHYS;5C;Introduction To Physics III;5;(1,['PHYS5A'],[]);(1,['PHYS5N'],[]);(1,['MATH19B','MATH20B'],[])
+
+
+#
+
+
+PHYS;5L;Introduction To Physics I Laboratory;1;(0,[],[]);(1,['PHYS5A'],[]);(0,[],[])
+
+
+PHYS;5M;Introduction To Physics II Laboratory;1;(0,[],[]);(1,['PHYS5B'],[]);(0,[],[])
+
+
+PHYS;5N;Introduction To Physics III Laboratory;1;(0,[],[]);(1,['PHYS5C'],[]);(0,[],[])
+
+
+#
+
+
+MATH;19A;Calculus for Science, Engineering, and Mathematics;5;(1,['MATH3','AMS3'],[]);(0,[],[]);(0,[],[])
+
+
+MATH;19B;Calculus for Science, Engineering, and Mathematics;5;(1,['MATH19A'],[]);(0,[],[]);(0,[],[])
+
+
+MATH;23A;Vector Calculus;5;(1,['MATH19B','MATH20B'],[]);(0,[],[]);(0,[],[])
+
+
+MATH;23B;Vector Calculus;5;(1,['MATH23A'],[]);(0,[],[]);(0,[],[])
+
+
+
+
+
+
+AMS;114;Introduction to Dynamical Systems;5;{(1,['AMS20'],[]);(0,[],[]);(0,[],[])
+AMS;147;Computational Methods and Applications;5;{(0,['AMS10',’MATH21’],[]);(0,[],[]);(0,[],[])
+CMPE;108;Data Compression;5;(1,['CMPE107',’AMS131’],[]);(0,[],[]);(0,[],[]) 
+CMPE;113;Parallel and Concurrent
+Programming;5;(4,['CMPE12',’CMPE12L’,’CMPS101’],[(1,['CMPE110','CMPE112'],[])]);(0,[],[]);(0,[],[])
+CMPE;115;Software Methodology;5;(3,['CMPE9',’MATH19B’,],[(1,[‘AMS10’,’MATH21’],[]]);(0,[],[]);(0,[],[])
+CMPE;122;Introduction to VLSI Digital System Design;5;(4,['CMPE100',’CMPE100L’,’EE101’,’EE101L’],[]);(0,[],[]);(0,[],[])
+CMPE;125;Logic Design with Verilog;5;(2,['CMPE100',’CMPE100L’],[]);(1,[‘CMPE125L’],[]);(0,[],[])
+CMPE;125L;Logic Design with Verilog Laboratory;2;(0,[],[]);(1,[‘CMPE125’],[]);(0,[],[])
+CMPE;131;Human-Computer Interaction;5;(1,['CMPS12B’],[]);(0,[],[]);(0,[],[])
+CMPE;141;Feedback Control Systems;5;(1,['EE103’],[]);(0,[],[]);(0,[],[])
+EE;154;Feedback Control Systems;5;(1,['EE103’],[]);(0,[],[]);(0,[],[])
+CMPE;151;Advanced Computer Networks;5;(1,['CMPE150’],[]);(0,[],[]);(0,[],[])
+CMPE;151L;Advanced Computer Networks Laboratory;2;(0,[],[]);(1,[‘CMPE151’],[]);(0,[],[])
+CMPE;153;Digital Signal Processing;5;(1,['EE103’],[]);(0,[],[]);(0,[],[])
+EE;153;Digital Signal Processing;5;(1,['EE103’],[]);(0,[],[]);(0,[],[])
+CMPE;156;Network Programming;5;(3,['CMPE150’,’CMPE150L’,’CMPS101’],[]);(1,[CMPE156L],[]);(0,[],[])
+CMPE;156L;Network Programming Laboratory;2;(0,[],[]);(1,[CMPE156],[]);(0,[],[])
+CMPE;161;Mobile Sensing and Interaction;5;(2,[‘PHYS5A’],[(2,['CMPE13','CMPE13L',’CMPS12B’,CMPS12M’],[])])
+CMPE;177; Applied Graph Theory and Algorithms;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPE;193;Field Study;5;(0,[],[]);(0,[],[]);(0,[],[])
+CMPE;198;Individual Study or Research;5;(0,[],[]);(0,[],[]);(0,[],[])
+CMPS;102;Introduction to Analysis of Algorithms;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPS;104A;Fundamentals of Compiler Design I;5;(3,[‘CMPS101’,’CMPE12’,’CMPE12L’],[]);(0,[],[]);(0,[],[])
+CMPS;104B;Fundamentals of Compiler Design II;5;(1,[‘CMPS104A’],[]);(0,[],[]);(0,[],[])
+CMPS;109;Advanced Programming;5;(2,[‘CMPS12B’,’CMPS12M’],[]);(0,[],[]);(0,[],[])
+CMPS;111;Introduction to Operating Systems;5;(2,[‘CMPE101’],[(2,[‘CMPE110’,’CMPE112’],[])])
+
+CMPS;112;Comparative Programming Languages;5;(1,[‘CMPS101’,’CMPS109’],[]);(0,[],[]);(0,[],[])
+CMPS;115;Introduction to Software Engineering;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPS;121;Mobile Applications;5;(2,[‘CMPS12B’,’CMPS12M’],[]);(0,[],[]);(0,[],[])
+CMPS;122;Computer Security;5;(1,[‘CMPS111’],[]);(0,[],[]);(0,[],[])
+CMPS;128;Distributed Systems: File Sharing, Online Gaming, and More;5;(1,[‘CMPS111’,’CMPS105’],[]);(0,[],[]);(0,[],[])
+CMPS;129;Data Storage Systems;5;(1,[‘CMPS103’],[]);(0,[],[]);(0,[],[])
+CMPS;130;Computational Models;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPS;140;Artificial Intelligence;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPS;142;Machine Learning and Data Mining;5;(3,[‘CMPS101’,’MATH23A’,’AMS131’],[]);(0,[],[]);(0,[],[])
+CMPS;146;Game AI;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPS;160;Introduction to Computer Graphics;5;(2,['CMPS101’],[(1,[‘AMS10’,’MATH21’],[]]);(0,[],[]);(0,[],[])
+CMPS;160L;Introduction to Computer Graphics Laboratory;2;(0,[],[]);(1,[‘CMPS160’],[]);(0,[],[])
+CMPS;161;Introduction to Data Visualization;5;(1,[‘CMPS101’],[]);(1,[‘CMPS161L’],[]);(0,[],[])
+CMPS;161L;Data Visualization Lab;2;(0,[],[]);(1,[‘CMPS161’],[]);(0,[],[])
+CMPS;180;Database Systems I;5;(1,[‘CMPS101’],[]);(0,[],[]);(0,[],[])
+CMPS;181;Database Systems II;5;(1,[‘CMPS180’],[]);(0,[],[]);(0,[],[])
+CMPS;183;Web Applications;5;(2,[‘CMPS12B’,’CMPS12M’],[]);(0,[],[]);(0,[],[])
+TIM;206;Optimization Theory and Applications;5;(2,[‘MATH19A’,’AMS10’],[]);(0,[],[]);(0,[],[])
+CMPE;110;Computer Architecture;5;(3,[‘CMPE12’,’CMPE12L’],[(2,[‘CMPE13’,’CMPE13L’,’CMPS12A’,’CMPS12L’,’CMPS11’],[])]);(0,[],[]);(0,[],[])
+CMPS;12B;Introduction to Data Structures;5;(1,[‘CMPS11’,’CMPS12A’,’CMPS13’],[]);(1,[‘CMPE12M’],[]);(0,[],[])
+CMPS;12M;Introduction to Data Structures Laboratory;2;(0,[],[]);(1,[‘CMPS12B’],[]);(0,[],[])
+CMPS;101;Algorithms and Abstract Data Types;5;(4,[‘CMPS12B’,’CMPE16’,’MATH19B’],[(1,[‘AMS10’,’MATH21’],[]]);(0,[],[]);(0,[],[])
+CMPE;9;Introduction to Statics Dynamics;(4,[‘MATH19A’,’PHYS5A’,’PHYS5L’],[(1,[‘AMS10’,’MATH21’],[]]);(0,[],[]);(0,[],[])
+Biomechanics;5;(4,[‘MATH19A’,’PHYS5A’,’PHYS5L’],[(1,[‘AMS10’,’MATH21’],[])]);;(0,[],[]);(0,[],[])
+CMPE;129A;Capstone Project I;2;(2,[‘CMPE121’,’CMPE121L’],[]);(0,[],[]);(0,[],[])
+CMPE;129B;Capstone Project II;5;(1,[‘CMPE129A’],[]);(0,[],[]);(1,[‘CMPE185’],[])
+CMPE;129C;Capstone Project III;5;(2,[‘CMPE129B’,’CMPE185’],[]);(0,[],[]);(0,[],[])
+CMPE;195;Senior Thesis Research;5;(1,[‘CMPE123A’],[]);(0,[],[]);(0,[],[])
+
+
+
+
+
+
